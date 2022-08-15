@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  # OffensivePub
 
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
