@@ -23,7 +23,7 @@ timezone: Asia/Dubai
 
 title: OffensivePub                          # the main title
 
-tagline: a Pub where all the Offensive mates  can gather togather    # it will display as the sub-title
+tagline: a Pub where all the Offensive mates  can gather together    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   a Pub where all the Offensive mates  can gather togather
