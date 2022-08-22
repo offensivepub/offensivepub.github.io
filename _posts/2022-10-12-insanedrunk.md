@@ -36,9 +36,7 @@ Discord: [Offensivepub](https://discord.gg/qm3hgA3V)<br>
 
 # The OVA Machine
 
-You can download the machine from this link:
-
-https://drive.google.com/file/d/1vpd9VF42bH-QkyW1WOk2j5IEJCMOdpm7/view
+You can download the machine from this [here](https://mega.nz/file/E4IVmaSQ#zkVKhkmWDMQSadf1eZ6ak0tQAnbwxijx-sCvBMUecH4)
 
 > This works better with Virtualbox rather than VMware.
 {: .prompt-warning }
